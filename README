@@ -1,0 +1,6 @@
+ÇALIŞTIRMAK ICIN:
+python run_experiments.py --instance instances/exp1.txt --solver A*
+
+Bir kaç library sende ekli olmayabilir (pathlib filan onları google dan bakıp yüklemiştim kendiminkine pip ile. (linux'da çalışıyorum))
+
+Instances icinde örnek haritalar var, multi-agent için. Başta harita eni ve boyu veriliyor. Sonra harita, sonra da agent başlangıç ve bitiş noktaları. Single agent çalışacağın için bir örneği çalıştırmadan önce agent sayısını 1 yap ve alttakileri sil. Ben senin için exp1.txt yi o hale getirip denedim. (Çoklu agent için daha sonra çalışacağız)
