@@ -1,3 +1,4 @@
+Most of the works do not belong to me I just created the repository to work on locally then made it public.
 ÇALIŞTIRMAK ICIN:
 python run_experiments.py --instance instances/exp1.txt --solver A*
 
